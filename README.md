@@ -23,7 +23,7 @@ The files are regrouped by topic :
 [Under construction]
 
 ### [00 - Start here](00_start_here/)
-
+### [01 - What is a digital image ?](01_what_is_a_digital_image/)
 
 ## Author
 
