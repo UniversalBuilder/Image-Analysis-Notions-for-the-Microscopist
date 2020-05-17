@@ -1,2 +1,2 @@
-[Back to the main page](link)
+[Back to the main page](../README.md)
 
