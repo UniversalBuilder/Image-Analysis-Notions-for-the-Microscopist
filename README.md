@@ -22,11 +22,11 @@ The files are regrouped by topic :
 
 [Under construction]
 
-[00 - Start here](00_start_here/)
+### [00 - Start here](00_start_here/)
 
 
 ## Author
 
-**Yannick Krempp**
-> IT and Bioimage Analyst at the Cellular Imaging Facility (CIF), Lausanne
+**[Yannick Krempp](https://www.linkedin.com/in/yannick-krempp/)**
+> IT and Bioimage Analyst at the [Cellular Imaging Facility (CIF), Lausanne](https://cif.unil.ch)
 
