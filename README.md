@@ -5,11 +5,13 @@ This repository gives some insights to the beginner on how to do image processin
 
 ## Public
 
-Any life scientist beginning in the fields of microscopy, image processing and analysis. Examples are using various software packages like Fiji, CellProfiler, QuPath, and obviously Python.
+Any life scientist beginning in the fields of microscopy, image processing and analysis. Examples are using various software packages like *Fiji*, *CellProfiler*, *QuPath*, and obviously *Python*.
 
-The goal of this course is not to redo what has already been done well by others, so many resources available here will actually point you towards work made by other people. The main value of this course is to give you access to - and centralize - all the notions deemed necessary to forge good enough skills in bioimage analysis for you to be able to work in a microscopy facility.
+The goal of this course is not to redo what has already been done well by others, so many resources available here will actually point you towards work made by other people. The main value of this course is to give you access to - and centralize - all the notions deemed necessary to forge good enough skills in bioimage analysis for you to be able to work in a microscopy facility. 
 
-*Disclaimer : If you find errors, or have some useful insights, feel free to contact me*
+This is obviously a huge task and is currently still a work-in-progress project.
+
+*Disclaimer : If you find errors, or have some useful insights, feel free to contact me at [my email adress](mailto:yannick.krempp@unil.ch)*
 
 
 ## Content
