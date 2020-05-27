@@ -22,8 +22,14 @@ The files are regrouped by topic :
 
 [Under construction]
 
-### [00 - Start here](00_start_here/)
-### [01 - What is a digital image ?](01_what_is_a_digital_image/)
+
+### [00 / Start here](00_start_here/00_start_here.ipynb)
+### [01 / Basic notions of what is a digital image and how to handle it]
+### [02 / Detailed resources to learn and use the most popular tools in the domain]
+### [03 / Common workflows and use cases]
+### [04 / Theory and advanced notions in bioimage processing]
+### [05 / Useful tips]
+
 
 ## Author
 
