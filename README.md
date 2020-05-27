@@ -16,19 +16,16 @@ This is obviously a huge task and is currently still a work-in-progress project.
 
 ## Content
 
-The material provided here can be of multiple types: PDFs, Sildes, scripts for specifc programs and Markdown files. You can browse them in any order you like, although if you are completely new to the domain you might want to use the provided order.
+The material provided here can be of multiple types: PDFs, slides, jupyter notebooks, scripts for specific programs and Markdown files. You can browse them in any order you like, although if you are completely new to the domain you might want to use the provided order.
 
 The files are regrouped by topic :
 
-[Under construction]
-
-
 ### [00 / Start here](00_start_here/00_start_here.ipynb)
-### [01 / Basic notions of what is a digital image and how to handle it]
-### [02 / Detailed resources to learn and use the most popular tools in the domain]
-### [03 / Common workflows and use cases]
-### [04 / Theory and advanced notions in bioimage processing]
-### [05 / Useful tips]
+### [01 / Basic notions of what is a digital image and how to handle it](01_basic_notions/)
+### [02 / Detailed resources to learn and use the most popular tools in the domain](02_detailed_resources/)
+### [03 / Common workflows and use cases](03_common_workflows/)
+### [04 / Theory and advanced notions in bioimage processing](04_theory/)
+### [05 / Useful tips](05_useful_tips/)
 
 
 ## Author
