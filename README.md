@@ -24,7 +24,10 @@ The material provided here can be of multiple types: PDFs, slides, jupyter noteb
 - You can browse the topics in any order you like, although if you are unfamiliar with the tools you might want to use the provided order and start with the *"Start here"* topic.
 - If you experience any trouble viewing the material, use the binder link below:
 
+**Best viewed using Binder** (*may take some time to load, be patient !*) - click on the logo :
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UniversalBuilder/Image-Analysis-Notions-for-the-Microscopist/master)
 
+## Outline
 
 **Here's the current outline:**
 
