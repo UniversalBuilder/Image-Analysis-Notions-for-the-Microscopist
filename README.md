@@ -1,24 +1,32 @@
 # Image Analysis Notions for the Microscopist
  
-This repository gives some insights to the beginner on how to do image processing and analysis.  It uses a collection of ImageJ macros, jupyter notebooks, PDFs and other documents.
+This repository is intended to serve as a base for a course on how to do bioimage processing and analysis.
+It will be regularly augmented and updated.
 
 
-## Public
+## Audience and purpose
 
+**Audience:**
 Any life scientist beginning in the fields of microscopy, image processing and analysis. Examples are using various software packages like *Fiji*, *CellProfiler*, *QuPath*, and obviously *Python*.
 
-The goal of this course is not to redo what has already been done well by others, so many resources available here will actually point you towards work made by other people. The main value of this course is to give you access to - and centralize - all the notions deemed necessary to forge good enough skills in bioimage analysis for you to be able to work in a microscopy facility. 
+**Purpose:**
+The goal of this course is not to redo what has already been done well by others, so many resources available here will actually point you towards work made by reknown experts. The main value of this course is to give you access to - and centralize - all the notions deemed necessary to forge good enough skills in bioimage analysis for you to be able to work in a microscopy facility. 
 
-This is obviously a huge task and is currently still a work-in-progress project.
+This is obviously a huge task and will probably always be a work-in-progress project.
 
 *Disclaimer : If you find errors, or have some useful insights, feel free to contact me at [my email adress](mailto:yannick.krempp@unil.ch)*
 
 
-## Content
+## A note on the content
 
-The material provided here can be of multiple types: PDFs, slides, jupyter notebooks, scripts for specific programs and Markdown files. You can browse them in any order you like, although if you are completely new to the domain you might want to use the provided order.
+The material provided here can be of multiple types: PDFs, slides, jupyter notebooks, scripts for specific programs and Markdown files.
 
-The files are regrouped by topic :
+- You can browse the topics in any order you like, although if you are unfamiliar with the tools you might want to use the provided order and start with the *"Start here"* topic.
+- If you experience any trouble viewing the material, use the binder link below:
+
+
+
+**Here's the current outline:**
 
 ### [00 / Start here](00_start_here/00_start_here.ipynb)
 ### [01 / Basic notions of what is a digital image and how to handle it](01_basic_notions/)
