@@ -1,5 +1,5 @@
 # Image Analysis Notions for the Microscopist
- 
+
 This repository is intended to serve as a base for a course on how to do bioimage processing and analysis.
 It will be regularly augmented and updated.
 
@@ -9,12 +9,16 @@ It will be regularly augmented and updated.
 **Audience:**
 Any life scientist beginning in the fields of microscopy, image processing and analysis. Examples are using various software packages like *Fiji*, *CellProfiler*, *QuPath*, and obviously *Python*.
 
+---
+
 **Purpose:**
 The goal of this course is not to redo what has already been done well by others, so many resources available here will actually point you towards work made by reknown experts. The main value of this course is to give you access to - and centralize - all the notions deemed necessary to forge good enough skills in bioimage analysis for you to be able to work in a microscopy facility. 
 
 This is obviously a huge task and will probably always be a work-in-progress project.
 
 *Disclaimer : If you find errors, or have some useful insights, feel free to contact me at [my email adress](mailto:yannick.krempp@unil.ch)*
+
+---
 
 
 ## A note on the content
